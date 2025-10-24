@@ -1,7 +1,8 @@
 ---
 title: Institutions
 layout: home
-nav_order: 2
+parent: Stakeholders
+nav_order: 1
 ---
 # Institutions 
 Organizations that have audiovisual materials for possible use with AVAnnotate often include archives, libraries, museums, community collections, etc. Content provided for use in AVAnnotate projects will inherently be ‘annotated’, and those materials may be ‘contextualized’ in new ways by AVAnnotate users. As a result, institutions should consider:
