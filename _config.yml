@@ -5,4 +5,5 @@ theme: just-the-docs
 url: https://avannotate.github.io/guidelines
 
 aux_links: # remove if you don't want this link to appear on your pages
+  Website: https://av-annotate.org/
   Documentation: https://avannotate.github.io/documentation/
