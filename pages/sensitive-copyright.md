@@ -79,20 +79,20 @@ B. Customization and Support
 
 ## VI. Suggested Resources
 - Trigger Warning Guidelines
- - [University of Michigan](https://sites.lsa.umich.edu/equitable-teaching/wp-content/uploads/sites/853/2020/09/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-PDF.pdf)
- - [Concordia University](https://opentextbooks.concordia.ca/teachingresource/chapter/trigger-warnings/)
+  - [University of Michigan](https://sites.lsa.umich.edu/equitable-teaching/wp-content/uploads/sites/853/2020/09/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-PDF.pdf)
+  - [Concordia University](https://opentextbooks.concordia.ca/teachingresource/chapter/trigger-warnings/)
 - Consent & Permissions Templates
- - [University of Texas at Austin](https://guides.lib.utexas.edu/copyright/permission)
- - [Rutgers University](https://www.libraries.rutgers.edu/research-support/copyright-guidance/copyright-basics/permissions-template)
- - [Columbia University](https://library.columbia.edu/research-teaching/copyright/permissions.html)
+  - [University of Texas at Austin](https://guides.lib.utexas.edu/copyright/permission)
+  - [Rutgers University](https://www.libraries.rutgers.edu/research-support/copyright-guidance/copyright-basics/permissions-template)
+  - [Columbia University](https://library.columbia.edu/research-teaching/copyright/permissions.html)
 - Institutional Policy Examples
- - [Hathi-Trust Non-consumptive Use Policy](https://www.hathitrust.org/the-collection/terms-conditions/non-consumptive-use-policy/)
- - “[Creating a Trauma-Informed Workplace.](https://cdlc.org/c.php?g=1096156&p=7993889)” Trauma-Informed Libraries. Capital District Library Council, 2024.
- - “[Suggestions for Supervisors[(https://ovc.ojp.gov/program/vtt/what-is-vicarious-trauma).” The Vicarious Trauma Toolkit. Office for Victims of Crime, U.S. Department of Justice, n.d.
- - [UC Berkeley Responsible Access Workflows](https://docs.google.com/presentation/d/1V66PGpIq9xqXxdvngpD3rkAMoIw2hIyVVDS4Iv4VFOM/edit#slide=id.g7ffa9d7047_0_2)
- - [Texas After Violence project “Should I Collect and Archive These Videos?”](https://texasafterviolence.org/wp-content/uploads/2024/05/ShouldICollectArchiveVideos_DecisionTree_USA_V2.pdf)
- - [Vancouver Statement of Principles (Collections as Data)](https://zenodo.org/records/8342171)
- - [CARE Principles](https://www.gida-global.org/care)
+  - [Hathi-Trust Non-consumptive Use Policy](https://www.hathitrust.org/the-collection/terms-conditions/non-consumptive-use-policy/)
+  - “[Creating a Trauma-Informed Workplace.](https://cdlc.org/c.php?g=1096156&p=7993889)” Trauma-Informed Libraries. Capital District Library Council, 2024.
+  - “[Suggestions for Supervisors[(https://ovc.ojp.gov/program/vtt/what-is-vicarious-trauma).” The Vicarious Trauma Toolkit. Office for Victims of Crime, U.S. Department of Justice, n.d.
+  - [UC Berkeley Responsible Access Workflows](https://docs.google.com/presentation/d/1V66PGpIq9xqXxdvngpD3rkAMoIw2hIyVVDS4Iv4VFOM/edit#slide=id.g7ffa9d7047_0_2)
+  - [Texas After Violence project “Should I Collect and Archive These Videos?”](https://texasafterviolence.org/wp-content/uploads/2024/05/ShouldICollectArchiveVideos_DecisionTree_USA_V2.pdf)
+  - [Vancouver Statement of Principles (Collections as Data)](https://zenodo.org/records/8342171)
+  - [CARE Principles](https://www.gida-global.org/care)
 
 
 
