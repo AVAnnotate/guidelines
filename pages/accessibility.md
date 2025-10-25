@@ -28,9 +28,9 @@ A. Federal Guidelines
 - Some archival materials may qualify for exceptions, but clear documentation and rationale are required. Individual institutions may have specific local policy interpretation of and/or guidelines around exceptions. 
 
 B. Other Resources
-[W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
-[Harvard Web Accessibility](https://accessibility.huit.harvard.edu/)
-[Indiana University AV media accessibility guidelines](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0022447)
-[National Captioning Institute](https://www.ncicap.org/)
-[Siteimprove Browser Extension](https://www.siteimprove.com/integrations/browser-extensions/)
+- [W3C Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [Harvard Web Accessibility](https://accessibility.huit.harvard.edu/)
+- [Indiana University AV media accessibility guidelines](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0022447)
+- [National Captioning Institute](https://www.ncicap.org/)
+- [Siteimprove Browser Extension](https://www.siteimprove.com/integrations/browser-extensions/)
 
