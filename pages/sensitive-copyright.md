@@ -23,16 +23,12 @@ C. Community and Donor Engagement
 - *Collaborate with community archives*: Prioritize community archives control over institutional decision-making and use of their collections, i.e. setting sharing limitations or indicating that item-level annotations must be private vs public; bringing in communities’ usage of their own materials and intellectual property; clearly defining considerations, legal contracts for content and materials from communities to be protected in perpetuity; attaining informed consent and good faith agreements; establishing ethics of care and transparency agreements; committing to ongoing communication over the duration of the relationship.
 - *Train* on correct citational practices, digital application and access, fair use; responsibilities in using materials, when and where to use materials in terms of public implications (e.g. citing content but not necessarily being able to use it; subtleties of the relationships between user communities, law, etc.), and how faculty and staff relationships to the institution(s) they work within are spelled out in bylaws, handbooks, etc.
 - *Create transparent donor agreements*: Ensure that donors understand the potential for future unforeseen use of the donated materials. Develop agreements that make rights considerations and financial implications explicit.
-
 D. Practical Implementation
 Provide public-facing guidance regarding media, metadata, and transcript availability, restrictions, re-use terms, etc. 
 Develop permissions-release documentation and make the associated procedures visible to the public.
-
 - *Assess public-facing metadata*: Ensure that potential sensitive content, such as victim names or sovereign data, are not visible in open metadata.
 - *Implement labor visibility and recognition procedures*: ensure staff labor is visible to partners, develop compensation policies for volunteer archival description efforts.
-- 
 E. Technical Implementation
-
 - *Provision infrastructure assessment*: How infrastructures and tools are configured impacts AV access. Providing access to IIIF-compliant media or direct links to media CORS (Cross-Origin Resource Sharing), for example, must be properly configured to allow media to be embedded and played via IIIF. Ensure transparent CORS settings and authentication systems.
 - *Authentication Support*: Increasing browser restrictions require updated protocols for secure access to content. Ensure that password protected AV assets can be brought into digital tools under the same protection.
 
