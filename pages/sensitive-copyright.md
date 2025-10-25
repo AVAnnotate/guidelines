@@ -55,6 +55,7 @@ C. Additional Considerations for Researchers and Educators
 
 ## IV. Developers
 Purpose: Ensure software supports ethical use by providing transparent and configurable tools.
+
 A. Technical Considerations
 - Read IIIF fields and allow configurable tags
 - Provide default warnings and prompts for ethical use
@@ -62,8 +63,9 @@ A. Technical Considerations
 - Support “feedback loops” with functionality to contribute back to institutions
 - Enable export methods that ensure platform independence and long-term access (see Sustainability section)
 - Support authentication control parameters
+
 B. Customization and Support
--Enable scholars to license annotations
+- Enable scholars to license annotations
 - Explore options for tiered access (e.g., reading room only)
 - Support workflows for consent, permissions, takedowns
 - Support inclusion of warnings and usage statements via templates or other standardized language
