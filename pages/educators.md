@@ -1,7 +1,7 @@
 ---
 title: Educators
 layout: home
-parent: Stakeholders
+parent: User Guidelines
 nav_order: 3
 ---
 # Educators 
