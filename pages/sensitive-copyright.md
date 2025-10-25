@@ -26,8 +26,8 @@ C. Community and Donor Engagement
 - *Create transparent donor agreements*: Ensure that donors understand the potential for future unforeseen use of the donated materials. Develop agreements that make rights considerations and financial implications explicit.
 
 D. Practical Implementation
-Provide public-facing guidance regarding media, metadata, and transcript availability, restrictions, re-use terms, etc. 
-Develop permissions-release documentation and make the associated procedures visible to the public.
+- *Provide public-facing guidance* regarding media, metadata, and transcript availability, restrictions, re-use terms, etc. 
+- *Develop permissions-release documentation* and make the associated procedures visible to the public.
 - *Assess public-facing metadata*: Ensure that potential sensitive content, such as victim names or sovereign data, are not visible in open metadata.
 - *Implement labor visibility and recognition procedures*: ensure staff labor is visible to partners, develop compensation policies for volunteer archival description efforts.
 
@@ -39,7 +39,7 @@ E. Technical Implementation
 A. Communicate Digital Ethics in Broader Context
 - Develop and communicate terms of use to explicate ethical and copyright constraints
 - Note effective responsible research practices, particularly when content references groups of people or sensitive topics.
--- Reciprocal sharing with research populations
+ - Reciprocal sharing with research populations
 -- Shared documentation provides context and helps others find a path to doing the work. 
 -- Reduce decontextualization risk whenever possible. 
 - Encourage users to retain collection notes associated with sensitive materials, particularly when presenting material in a classroom setting.
