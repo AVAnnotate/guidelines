@@ -53,7 +53,7 @@ C. Additional Considerations for Researchers and Educators
 - Documentation
  - Encourage the development of shared best practices: Documentation should clearly explain how and why decisions were made. While no documentation can be fully comprehensive, incomplete or in-progress documentation (that is identified as such) is better than no documentation.
 
-## VII. Developers
+## IV. Developers
 Purpose: Ensure software supports ethical use by providing transparent and configurable tools.
 A. Technical Considerations
 - Read IIIF fields and allow configurable tags
@@ -70,12 +70,12 @@ B. Customization and Support
 - Provide tools for transparency, especially regarding rights and restrictions
 - Promote community use cases and sustainable documentation practices. Model best practices. 
 
-## VIII. Community Practices and Scaling Up
+## V. Community Practices and Scaling Up
 - Build institutional and inter-institutional communities for support
 - Offer training and working groups (e.g., DHSI-style, Software Carpentry)
 - Promote and foster ethical culture via conferences, developer channels, and informal learning spaces
 
-## IX. Suggested Resources
+## VI. Suggested Resources
 - Trigger Warning Guidelines
  - [University of Michigan](https://sites.lsa.umich.edu/equitable-teaching/wp-content/uploads/sites/853/2020/09/An-Introduction-to-Content-Warnings-and-Trigger-Warnings-PDF.pdf)
  - [Concordia University](https://opentextbooks.concordia.ca/teachingresource/chapter/trigger-warnings/)
