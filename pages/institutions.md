@@ -1,7 +1,7 @@
 ---
 title: Institutions
 layout: home
-parent: Stakeholders
+parent: User Guidelines
 nav_order: 1
 ---
 # Institutions 
