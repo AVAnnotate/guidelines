@@ -9,4 +9,4 @@ AVAnnotate is a tool designed to enhance audiovisual materials with rich, meanin
 These guidelines include 
 - [Principles of Engagement](https://avannotate.github.io/guidelines/pages/principles) around using AVAnnotate specifically and for creating contextual material more generally for audiovisual (AV) content outside of the contexts created within collection institutions.
 
-- [Stakeholder Guidelines](https://avannotate.github.io/guidelines/pages/stakeholders) for contributors, collaborators, or creators/co-creators in the development of AVAnnotate projects.
+- [User Guidelines](https://avannotate.github.io/guidelines/pages/users) for contributors, collaborators, or creators/co-creators in the development of AVAnnotate projects.
