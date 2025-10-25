@@ -34,3 +34,22 @@ B. Other Resources
 - [National Captioning Institute](https://www.ncicap.org/)
 - [Siteimprove Browser Extension](https://www.siteimprove.com/integrations/browser-extensions/)
 
+## Stakeholder Roles and Responsibilities
+A. AV Content Providers
+- *Documentation*: Institutions that steward audiovisual resources should document the accessibility considerations bearing on the significant properties of their materials so that creators of annotation projects can preserve and carry through those properties into their annotation projects. Such documents could include guidelines around copyrighted and/or sensitive materials.
+- *Guideline adherence*: Online AV content provided by institutions should be made accessible to the extent possible, including captions, transcripts, audio descriptions, alt-text for images, subject to federal and local institutional policy. See Institutional Operations for more guidelines on creating policy.
+- *Request mechanisms*: Institutions should provide a request mechanism for remediation of AV content that lacks accessibility features, contains sensitive or copyright material, or represents communities not involved in a review of the workflow to create third-party access and use. See more about this topic in the section AV Materials and Ethical Use Guide for Institutions: Sensitive and Copyrighted Materials.
+
+B. Platform Developers
+- *Guideline adherence*: Ensure platform supports captions, transcripts, audio descriptions, alt-text for images (i.e. WCAG 2.1 AA compliance).
+- *Accessible software*: Ensure general accessibility of the application (and AV player) for general online and offline use. Provide minimal computing and bandwidth options, where possible. Assess technical infrastructure or capacity limitations. Provide multilingual access where appropriate.
+- *Accessibility testing*: AVAnnotate developers should use both automated testing tools (such as SiteImprove or the free SiteImprove Browser Extension) as well as manual walkthrough testing (example) to test the application for accessibility compliance with WCAG 2.1 level AA prior to each release.
+- *Media adjustment controls*: Support media appearance and playback controls for diverse user needs.
+- *Privacy controls*: Support varying levels of privacy for engagements with sensitive materials or classroom uses. Ensure users are aware of the platform’s use of permissions and safeguards for data privacy.
+- *Appropriate consideration of data consumption by artificial intelligence or other technologies*: Metadata and content may be used in training sets for artificial intelligence and product development. Stewards should be mindful of the ethical implications, including intellectual property and claims to data sovereignty, and should develop adequate safeguards against improper usage, detrimental loss of context, and the amplification of biases through these technologies [cite CaD principle #11].
+
+C. Platform Users
+- *Existing accessibility features*:  Make an inventory of existing accessibility features provided with the media. Make sure these are preserved or improved in the eventual annotation project. In case the original media had accessibility properties that could not be preserved in the annotation project, provide links or references to the original resources.
+- *New accessibility features*:  Examine to what extent the annotation process can supplement existing accessibility features (e.g., annotations for diverse learning environments, inclusive pedagogical use through images, sound, and annotation layers.
+- *Accessible project-specific content*: New web pages and annotations that are created as part of a project should be accessible to users using various assistive technologies and should be tested for compliance with appropriate standards (e.g. WCAG 2.1 AA).
+- *Accessibility testing*: Use both automated testing tools (such as the free SiteImprove Browser Extension) as well as manual walkthrough testing (example) to test all web pages in an annotation project for accessibility compliance with WCAG 2.1 level AA.
