@@ -1,5 +1,5 @@
 ---
-title: Stakeholders
+title: User Guidelines
 layout: home
 nav_order: 2
 ---
