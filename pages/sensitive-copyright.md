@@ -39,9 +39,9 @@ E. Technical Implementation
 A. Communicate Digital Ethics in Broader Context
 - Develop and communicate terms of use to explicate ethical and copyright constraints
 - Note effective responsible research practices, particularly when content references groups of people or sensitive topics.
- - Reciprocal sharing with research populations
--- Shared documentation provides context and helps others find a path to doing the work. 
--- Reduce decontextualization risk whenever possible. 
+  - Reciprocal sharing with research populations
+  - Shared documentation provides context and helps others find a path to doing the work. 
+  - Reduce decontextualization risk whenever possible. 
 - Encourage users to retain collection notes associated with sensitive materials, particularly when presenting material in a classroom setting.
 - Encourage honoring the wishes of project contributors, including library and archive staff and student workers, to be credited or not for their work.
 
