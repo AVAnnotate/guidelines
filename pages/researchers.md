@@ -1,7 +1,7 @@
 ---
 title: Researchers
 layout: home
-parent: Stakeholders
+parent: User Guidelines
 nav_order: 2
 ---
 # Researchers
