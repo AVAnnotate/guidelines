@@ -17,7 +17,7 @@ These guidelines include
   - [Educators](https://avannotate.github.io/guidelines/pages/educators)
   - [Public](https://avannotate.github.io/guidelines/pages/public)
  
-# Additinoal Resources
+# Additional Resources
 Researchers creating projects with AVAnnotate should consult the following additional resources. the 
 - [AVAnnotate Documentation](https://avannotate.github.io/documentation/) which includes more technical "how to" instructions such as:
   - [Get Started](https://avannotate.github.io/documentation/pages/quickstart/)
