@@ -1,7 +1,13 @@
-
+---
+title: Getting Started
+layout: home
+parent: User Guidelines
+nav_order: 3
+---
 
 # Introduction
 AVAnnotate is a platform for creating annotated audiovisual projects, allowing scholars, students, and creators to enrich films, recordings, and other media with contextual notes, transcripts, and analyses. This guide is designed to help various stakeholders—institutions, researchers, educators, and communities—navigate conceptual, ethical, and logistical questions regarding how they engage with AV materials in order to build AVAnnotate projects across different contexts. This document is an encouragement to all parties to be talking openly about expectations and the needs of project creators and consumers. 
+
 ## Getting Started (all users)
 Documentation
 Quick Start 
