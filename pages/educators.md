@@ -26,8 +26,6 @@ Specific considerations that educators should be aware of include issues of medi
 
 ## Teaching workflows
 
-![Image 1](../assets/creatingateachproject.png)
-
 In each of the following intersecting workflows for creating an AVAnnotate project, there are two considerations to keep in mind: 
 - How the annotations and index terms employed in the AVAnnotate project will help students critically engage with the AV.
 - How the assignment is crafted to help students make an argument with AVAnnotate that reflects their understanding of the learning objectives.
@@ -55,7 +53,7 @@ In each of the following intersecting workflows for creating an AVAnnotate proje
 → Determine how the assignment combines annotations, index terms, and customized pages
   
 </details>
-  
+  ![Image 1](../assets/creatingateachproject.png)
 ## Additional Resources
 Teachers across educational contexts use AVAnnotate to more thoroughly engage class content, promote active learning, and support course learning objectives about multimodal composition and analysis. The following resources offer in-roads for educators across the humanities to implement AVAnnotate, as well as pedagogical materials that can be adapted to fit the learning objectives of varied classroom settings. 
 - [Teaching with AVAnnotate - Case Studies](https://docs.google.com/document/d/1Kyh5GOH26CGubcBqDr4Cy_Q68cB96OFMv_IZrQ-b0cg/edit?tab=t.8udsh86dhkbh#heading=h.2hxhnokol45w)
