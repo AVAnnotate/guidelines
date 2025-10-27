@@ -2,7 +2,7 @@
 title: Non-Specialist Public
 layout: home
 parent: Stakeholders
-nav_order: 4
+nav_order: 5
 ---
 # Non-Specialist Public
 Non-specialists can benefit from using AVAnnotate in the following ways:
