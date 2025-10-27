@@ -24,9 +24,39 @@ Specific considerations that educators should be aware of include issues of medi
 - **What do I need to teach about transparency and consent regarding potentially harmful content?**
   Maybe the annotations themselves could be useful for providing links or references to outside resources that could be useful for students who need context for a problematic or triggering topic. More generally, just beyond problematic and triggering subject matter, use annotations as routes to broader access to related material that may not be the present focus of a set of annotations, but which the students might consider relevant. “Before you explore this topic: explore this ______ in regard to the topic of sexual violence/more sensitive topics”
 
-  ![Image 1](../assets/creatingateachproject.png)
+## Teaching workflows
+
+![Image 1](../assets/creatingateachproject.png)
+
+In each of the following intersecting workflows for creating an AVAnnotate project, there are two considerations to keep in mind: 
+- How the annotations and index terms employed in the AVAnnotate project will help students critically engage with the AV.
+- How the assignment is crafted to help students make an argument with AVAnnotate that reflects their understanding of the learning objectives.
+
+<details>
+  <summary>I have audiovisual materials</summary>
+→ Establish what you want students to learn about making an argument about AV <br>
+→ Determine how the assignment combines annotations, index terms, and customized pages <br>
+→ Determine what types of annotations and index terms support the learning objective <br>
   
-## Resources
+</details>
+
+<details>
+  <summary>I have an assignment</summary>
+→ Determine how the assignment combines annotations, index terms, and customized pages <br>
+→ Determine what types of annotations and index terms support the learning objective <br>
+→ Establish what you want students to learn about making an argument about AV <br>
+  
+</details>
+
+<details>
+  <summary>I have a learning objective</summary>
+→ Determine what types of annotations and index terms support the learning objective <br>
+→ Establish what you want students to learn about making an argument about AV <br>
+→ Determine how the assignment combines annotations, index terms, and customized pages
+  
+</details>
+  
+## Additional Resources
 Teachers across educational contexts use AVAnnotate to more thoroughly engage class content, promote active learning, and support course learning objectives about multimodal composition and analysis. The following resources offer in-roads for educators across the humanities to implement AVAnnotate, as well as pedagogical materials that can be adapted to fit the learning objectives of varied classroom settings. 
 - [Teaching with AVAnnotate - Case Studies](https://docs.google.com/document/d/1Kyh5GOH26CGubcBqDr4Cy_Q68cB96OFMv_IZrQ-b0cg/edit?tab=t.8udsh86dhkbh#heading=h.2hxhnokol45w)
   This document includes detailed information about how teachers and students used AVAnnotate in different classroom contexts during the Spring 2025 semester. The case study write-ups include the following resources…  
