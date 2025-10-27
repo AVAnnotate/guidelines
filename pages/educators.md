@@ -2,7 +2,7 @@
 title: Educators
 layout: home
 parent: User Guidelines
-nav_order: 3
+nav_order: 4
 ---
 # Educators 
 Educators interested in using AVAnnotate may include instructors across disciplines (humanities, sound studies, cultural studies, etc.), especially in course settings that ask students to engage in multimodal composition and analysis of AV objects. Importantly, AVAnnotate is a free, portable, and flexible technology that requires minimal technical expertise and allows for use across fields and experience levels. 
