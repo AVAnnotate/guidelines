@@ -36,4 +36,4 @@ In each of the following intersecting workflows for creating an AVAnnotate proje
 
 </details>
 
-![Image 1](../../assets/creatingaresearchproject.png)
+![Image 1](../assets/creatingaresearchproject.png)
