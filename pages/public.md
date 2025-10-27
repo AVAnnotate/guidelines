@@ -1,7 +1,7 @@
 ---
 title: Non-Specialist Public
 layout: home
-parent: Stakeholders
+parent: User Guidelines
 nav_order: 5
 ---
 # Non-Specialist Public
