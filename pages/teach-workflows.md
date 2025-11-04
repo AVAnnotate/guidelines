@@ -1,4 +1,3 @@
-
 ---
 title: Teaching Workflows
 layout: home
