@@ -4,7 +4,7 @@ layout: home
 parent: Principles of Engagement
 nav_order: 4
 ---
-# Contributors to the Priniciples of Engagement
+# Contributors to the Principles of Engagement
 
 Albert Palacios, Digital Scholarship Coordinator, LLILAS Benson Latin American Studies and Collections, University of Texas at Austin.
 
