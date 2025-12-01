@@ -9,7 +9,8 @@ nav_order: 1
 These guides are designed to help various stakeholders—institutions, researchers, educators, and communities—navigate conceptual, ethical, and logistical questions regarding how they engage with AV materials in order to build AVAnnotate projects across different contexts. This document is an encouragement to all parties to be talking openly about expectations and the needs of project creators and consumers.
 
 These guidelines include 
-- [Principles of Engagement](https://avannotate.github.io/guidelines/pages/principles) around using AVAnnotate specifically and for creating contextual material more generally for audiovisual (AV) content outside of the contexts created within collection institutions.
+- [Principles of Engagement](https://avannotate.github.io/guidelines/pages/principles) to consider when using tools like AVAnnotate specifically for augmenting contextual material for content outside of collecting institutions where they have been processed, preserved, and made accessible.
+
 
 - [User Guidelines](https://avannotate.github.io/guidelines/pages/users) for contributors, collaborators, or creators/co-creators in the development of AVAnnotate projects. These guidelines are specifically for
   - [Collecting Institutions](https://avannotate.github.io/guidelines/pages/institutions)
