@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Creating Transcripts
 layout: home
 parent: Resources
 ancestor: User Guidelines
