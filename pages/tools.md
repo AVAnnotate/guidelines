@@ -2,7 +2,7 @@
 title: Tools
 layout: home
 parent: Resources
-grand_parent: Getting Started (all users)
+ancestor: User Guidelines
 nav_order: 1
 ---
 # Recommended Complementary Tools with AVAnnotate
