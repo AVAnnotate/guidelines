@@ -1,8 +1,8 @@
 ---
-title: Events
+title: Tools
 layout: home
-parent: Getting Started (all users)
-grand_parent: Resources
+parent: Resources
+grand_parent: Getting Started (all users)
 nav_order: 2
 ---
 # Creating Transcripts
