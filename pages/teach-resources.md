@@ -7,10 +7,10 @@ nav_order: 3
 ---
 
 # Teaching Resources
-Teachers across various educational contexts utilize AVAnnotate to more thoroughly engage with class content, promote active learning, and support course learning objectives related to multimodal composition and analysis. The following resources offer inroads for educators across the humanities to implement AVAnnotate, as well as pedagogical materials that can be adapted to fit the learning objectives of varied classroom settings. Write-ups of several case studies are available in this ["Teaching with AVAnnotate" resource packet](https://docs.google.com/document/d/1Kyh5GOH26CGubcBqDr4Cy_Q68cB96OFMv_IZrQ-b0cg/edit?usp=sharing){:target="_blank" rel="noopener"}. 
+Teachers across various educational contexts utilize AVAnnotate to more thoroughly engage with class content, promote active learning, and support course learning objectives related to multimodal composition and analysis. The following resources offer inroads for educators across the humanities to implement AVAnnotate, as well as pedagogical materials that can be adapted to fit the learning objectives of varied classroom settings. 
 
-[Teaching with AVAnnotate - Case Studies](https://docs.google.com/document/d/1Kyh5GOH26CGubcBqDr4Cy_Q68cB96OFMv_IZrQ-b0cg/edit?tab=t.8udsh86dhkbh#heading=h.2hxhnokol45w)
-  This document provides detailed information on how teachers and students used AVAnnotate across different classroom contexts during the Spring 2025 semester. The case study write-ups include the following resources…  
+[Teaching with AVAnnotate - Case Studies](https://docs.google.com/document/d/1Kyh5GOH26CGubcBqDr4Cy_Q68cB96OFMv_IZrQ-b0cg/edit?usp=sharing){:target="_blank" rel="noopener"}
+  This document provides detailed information on how teachers and students used AVAnnotate across different classroom contexts during the Spring 2025 semester. The case study write-ups include the following resources:
   - Course descriptions
   - Course learning objectives
   - Assignment descriptions and deadlines 
