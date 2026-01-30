@@ -9,12 +9,19 @@ nav_order: 1
 
 ## How community archives can benefit from using AVAnnotate
 •	Layered community context around AV materials: Publish time-stamped annotations, index terms, and project narratives that keep community knowledge attached to recordings rather than separated into external finding aids.
+
 •	Supports plural voices and perspectives: Maintain distinct annotation sets (e.g., community narration, curator notes, researcher commentary, machine-transcript drafts), enabling multiple truths without collapsing them into a single “official” description.
+
 •	Improves discoverability without sacrificing nuance: Indexing and structured annotation make long recordings more navigable while preserving complexity and contextual warnings.
+
 •	Accessibility-forward workflows: Integrate transcripts/captions, alt text, and accessibility checks as a baseline practice to make community materials usable by more people.
+
 •	Interoperable, standards-aware publishing: Benefit from IIIF-oriented, web-based delivery patterns that improve portability and reduce lock-in.
+
 •	Transparent documentation and reproducible practice: AVAnnotate’s emphasis on documenting workflows helps community archives formalize consent, access, and description processes in ways that are legible to participants and partners.
+
 •	Flexible deployment options: Use public sites when appropriate and consider private/offline or alternative-server pathways when sensitivity or safety requires it.
+
 •	A practical pathway to reciprocity: Pair publication with skill-sharing and co-authorship/credit practices, supporting community members as producers of knowledge—not just sources.
 
 ## What community archives should consider when using AVAnnotate
