@@ -6,6 +6,8 @@ nav_order: 1
 # Introduction
 [AVAnnotate](https://av-annotate.org/) is a web-based application that uses free and open-source tools (Jekyll and GitHub Pages) to create static sites on GitHub with playable media, timestamped annotations, index terms, and contextual essays with images, text, and clips. Archivists, librarians, researchers, educators, and students use the AVAnnotate application to present and share context around AV. In addition, AVAnnotate ingests and produces IIIF (International Image Interoperability Framework) manifests making it interoperable and sustainable according to W3C web-based standards.
 
+[Technical Documentation](https://avannotate.github.io/documentation/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
 These guides are designed to help various stakeholders—institutions, researchers, educators, and communities—navigate conceptual, ethical, and logistical questions regarding how they engage with AV materials in order to build AVAnnotate projects across different contexts. This document is an encouragement to all parties to be talking openly about expectations and the needs of project creators and consumers.
 
 These guidelines include 
