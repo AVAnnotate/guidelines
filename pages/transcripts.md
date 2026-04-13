@@ -2,7 +2,6 @@
 title: Creating Transcripts
 layout: home
 parent: Resources
-ancestor: User Guidelines
 nav_order: 2
 ---
 # Creating Transcripts
