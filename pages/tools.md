@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: Recommended Tools
 layout: home
 parent: Resources
 nav_order: 1
