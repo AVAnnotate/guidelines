@@ -1,9 +1,8 @@
 ---
 title: Research Resources
 layout: home
-grandparent: User Guidelines
-parent: Researchers
-nav_order: 3
+parent: Resources
+nav_order: 2
 ---
 
 # Additional Researcher Resources   
