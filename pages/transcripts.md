@@ -2,7 +2,7 @@
 title: Creating Transcripts
 layout: home
 parent: Resources
-nav_order: 2
+nav_order: 5
 ---
 # Creating Transcripts
 
