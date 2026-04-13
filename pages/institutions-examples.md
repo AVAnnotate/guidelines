@@ -1,9 +1,8 @@
 ---
 title: Examples for Institutions
 layout: home
-grandparent: User Guidelines
-parent: Collecting Institutions
-nav_order: 5
+parent: Resources
+nav_order: 1
 ---
 
 # Example Projects for Collecting Institutions
