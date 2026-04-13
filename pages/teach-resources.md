@@ -1,8 +1,7 @@
 ---
 title: Teaching Resources
 layout: home
-grandparent: User Guidelines
-parent: Educators
+parent: Resources
 nav_order: 3
 ---
 
