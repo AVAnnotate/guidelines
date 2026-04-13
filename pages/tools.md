@@ -2,7 +2,7 @@
 title: Recommended Tools
 layout: home
 parent: Resources
-nav_order: 1
+nav_order: 4
 ---
 # Recommended Complementary Tools with AVAnnotate
 [aTrain](https://arxiv.org/abs/2310.11967?utm_source=chatgpt.com)
