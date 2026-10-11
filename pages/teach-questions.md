@@ -15,7 +15,7 @@ nav_order: 1
   How do my class learning objectives map onto or diverge from the affordances of digital annotation? Will my conversations include issues around access and privacy or cultural sensitivities? Will students develop tags or will I create them for them? Will I discuss the significance of annotation as a means for discovery with AV? 
 - **Do my students have access to technology that will support their use of digital tools and/or AV artifacts?**
   Do students have web access and/or video/audio players?
-- **What technical expertise and/or resources will support students’ engagement with AV artifacts or the AVAnnotate tool? 
+- **What technical expertise and/or resources will support students’ engagement with AV artifacts or the AVAnnotate tool?** 
   Is workshop support, a technical expert, or bespoke documentation for a particular lesson plan or assignment needed? 
 - **How will students be assessed based on projects and learning?**
   Are new rubrics, grading schemas, or evaluation criteria needed to assess students’ digital and/or multimodal projects? 
