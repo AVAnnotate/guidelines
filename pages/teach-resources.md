@@ -24,9 +24,7 @@ This teaching guide provides detailed information and example projects for how e
 
 ### Lesson Plans and Activities
 [SpokenWeb Pedagogy Collection – 	AVAnnotate](https://jentery.github.io/SWDemo/output_documents/AVAnnotate.html)
-  This lesson plan is designed for use in a first-year writing classroom that engages with multimodal texts and literacies. This lesson plan will 1) teach students how to critically analyze and engage audiovisual texts, and 2) offer students a structure for multimodal composing methods via the AVAnnotate software.
-[AVA-HRC Intro]()
-This resource describes how to use AV resources at the Harry Ransom Center at the University of Texas in AVAnnotate projects.  
+  This lesson plan is designed for use in a first-year writing classroom that engages with multimodal texts and literacies. This lesson plan will 1) teach students how to critically analyze and engage audiovisual texts, and 2) offer students a structure for multimodal composing methods via the AVAnnotate software. 
 
 [AVAnnotate Course Templates](https://lor.instructure.com/resources/1950da9aa46d4a3192fddb9de1514dc0){:target="_blank" rel="noopener"}
   This repository contains three Canvas course templates for integrating AVAnnotate content and assignments into undergraduate and graduate courses.
