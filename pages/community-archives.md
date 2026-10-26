@@ -1,11 +1,6 @@
 ---
-title: Community Archives
-published: false
----
----
-title: Community Archives
+title: Community Archives Resources
 layout: home
-grandparent: User Guidelines
 parent: Non-Specialist Public
 nav_order: 1
 ---
