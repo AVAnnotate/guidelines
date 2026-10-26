@@ -1,7 +1,7 @@
 ---
 title: Collecting Institutions
 layout: home
-nav_order: 2
+nav_order: 3
 ---
 # Collecting Institutions 
 Organizations that have audiovisual materials for possible use with AVAnnotate often include archives, libraries, museums, community collections, etc. 
