@@ -2,7 +2,7 @@
 title: Community Archives Resources
 layout: home
 parent: Public
-nav_order: 1
+nav_order: 3
 ---
 # Community Archives
 Community archives can benefit from using AVAnnotate in a number of ways. A [community archive](https://dictionary.archivists.org/entry/community-archives.html ){:target="_blank" rel="noopener"} is a community-led (or community-governed) effort to collect, describe, preserve, and share records that document the experiences, histories, and cultural knowledge of a particular group—especially materials that have been overlooked, misrepresented, or controlled by external institutions.
