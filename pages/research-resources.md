@@ -1,8 +1,8 @@
 ---
 title: Research Resources
 layout: home
-parent: Resources
-nav_order: 2
+parent: Resesearchers
+nav_order: 3
 ---
 
 # Additional Researcher Resources   
