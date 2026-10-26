@@ -1,5 +1,5 @@
 ---
-title: Non-Specialist Public
+title: Public
 layout: home
 nav_order: 6
 ---
