@@ -1,7 +1,7 @@
 ---
 title: Resources
 layout: home
-nav_order: 3
+nav_order: 15
 ---
 # AVAnnotate Resources and Examples
 
