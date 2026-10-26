@@ -1,7 +1,7 @@
 ---
 title: Teaching Resources
 layout: home
-parent: Resources
+parent: Educators
 nav_order: 3
 ---
 
