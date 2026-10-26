@@ -1,7 +1,7 @@
 ---
 title: Getting Started (all users)
 layout: home
-nav_order: 1
+nav_order: 2
 ---
 # Getting Started (all users)
 {: .note }
