@@ -1,7 +1,7 @@
 ---
 title: Guiding Questions
 layout: home
-parent: Public
+parent: Non-Specialist Public
 nav_order: 1
 ---
 
