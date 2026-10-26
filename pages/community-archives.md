@@ -1,7 +1,7 @@
 ---
 title: Community Archives Resources
 layout: home
-parent: Non-Specialist Public
+parent: Public
 nav_order: 1
 ---
 # Community Archives
