@@ -1,7 +1,6 @@
 ---
 title: Guiding Questions
 layout: home
-grandparent: User Guidelines
 parent: Public
 nav_order: 1
 ---
