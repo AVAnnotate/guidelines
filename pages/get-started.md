@@ -1,7 +1,6 @@
 ---
 title: Getting Started (all users)
 layout: home
-parent: User Guidelines
 nav_order: 1
 ---
 # Getting Started (all users)
