@@ -5,7 +5,7 @@ parent: Getting Started (all users)
 nav_order: 1
 ---
 # Approaches and Annotated Example Projects
-Below are potential approaches to creating [projects](https://avannotate.github.io/documentation/pages/projects/) in AVAnnotate, paired with annotated examples. They are organized by audiences, including [Collecting Institutions](https://avannotate.github.io/guidelines/pages/institutions.html), [Researchers](https://avannotate.github.io/guidelines/pages/researchers.html), [Educators](https://avannotate.github.io/guidelines/pages/educators.html), and [Public](https://avannotate.github.io/guidelines/pages/public.html). A full list of example AVAnnotate projects can be found [here](https://av-annotate.org/example-projects/).
+Below are potential approaches to creating [projects](https://avannotate.github.io/documentation/pages/projects/) in AVAnnotate, paired with annotated examples. They are organized by audiences, including [Collecting Institutions](https://avannotate.github.io/guidelines/pages/institutions.html), [Researchers](https://avannotate.github.io/guidelines/pages/researchers.html), [Educators](https://avannotate.github.io/guidelines/pages/educators.html), and [Public](https://avannotate.github.io/guidelines/pages/public.html). A full list of example AVAnnotate projects can be found at [av-annotate.org](https://av-annotate.org/example-projects/).
 
 ## **Collecting Institutions**
 - **Community Event or Compilation**: [SpokenWeb 2025: Re-sounding Poetries](https://ndamours14.github.io/360resounding/)<br>
