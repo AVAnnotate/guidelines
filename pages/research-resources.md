@@ -1,6 +1,7 @@
 ---
 title: Research Resources
 layout: home
+grandparent: User Guidelines
 parent: Resesearchers
 nav_order: 2
 ---
