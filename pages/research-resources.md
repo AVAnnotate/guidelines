@@ -2,7 +2,7 @@
 title: Research Resources
 layout: home
 parent: Resesearchers
-nav_order: 3
+nav_order: 2
 ---
 
 # Additional Researcher Resources   
