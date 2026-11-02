@@ -18,7 +18,7 @@ These guidelines include
   - [Public](https://avannotate.github.io/guidelines/pages/public)
  
 # Additional Resources
-Researchers creating projects with AVAnnotate should consult the following additional resources. the 
+Researchers creating projects with AVAnnotate should consult the following additional resources.
 - [AVAnnotate Documentation](https://avannotate.github.io/documentation/) which includes more technical "how to" instructions such as:
   - [Get Started](https://avannotate.github.io/documentation/pages/quickstart/)
   - [Build a Project](https://avannotate.github.io/documentation/pages/projects/)
