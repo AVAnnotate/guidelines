@@ -17,9 +17,11 @@ The institution should determine whether to provide broad access to materials, l
 - **What is the return on investment for providing segment-level metadata through media annotation?** 
   Does creating annotations add value to the collection in terms of increased accessibility and community engagement or advancing teaching and research?  
 - **Would the annotation of collection materials put subjects at risk or cause harm?**
-  Was informed consent provided? Does the project and annotations align with any trusts or agreements with the owner of the material?
+  Was informed consent provided? Do the project and annotations align with any trusts or agreements with the owner of the material?
 - **How are lines of contact created between communities and public collections?** 
-  How are community/public contributions to annotation projects considered if the community member is in the primary source? How are resources about community engaged projects, informed consent, qualitative research ethics, etc. made available?
-What kind of support can the institution provide for users who wish to use AVAnnotate? Will the institution provide modeling, make decision-making transparent, explicate mindful/responsible uses of the tool? 
+  How are community/public contributions to annotation projects considered if the community member is in the primary source? How are resources about community-engaged projects, informed consent, qualitative research ethics, etc. made available?
+What kind of support can the institution provide for users who wish to use AVAnnotate? Will the institution provide modeling, make decision-making transparent, and explicate mindful/responsible uses of the tool? 
 - **How will the library/institution engage with the project?**
-  Will the project feed back into the library/institution DAMS? Will it serve to represent the institution or will it function as a “one off” project and the sole responsibility of the creator?
+  Will the project feed back into the library/institution DAMS? Will it serve to represent the institution, or will it function as a “one-off” project and the sole responsibility of the creator?
+
+Additionally, the [Harry Ransom Center at the University of Texas at Austin](https://www.hrc.utexas.edu/){:target="_blank" rel="noopener"} has published [an introduction](https://www.hrc.utexas.edu/teaching/avannotate/){:target="_blank" rel="noopener"} to using AV resources in AVAnnotate projects.
