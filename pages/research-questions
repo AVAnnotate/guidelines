@@ -1,0 +1,31 @@
+---
+title: Guiding Questions
+layout: home
+grandparent: User Guidelines
+parent: Researchers
+nav_order: 1
+---
+
+# Guiding Questions for Researchers
+
+Specific considerations that researchers should take into account when building an AVAnnotate project include issues related to the research objective or question as well as the methodology related to annotations and tags. Furthermore, researchers should consider how the audiovisual material related to an AVAnnotate project can be accessed, stored, and distributed. The following are some guiding questions for researchers:
+
+- **What are your research questions or objectives?** 
+What is the scope of your project? What gap is this project filling? How will you use your AVAnnotate project to approach your research question or objective?
+- **What kinds of annotations support your research objective?**
+Which content will be annotated? How will you annotate that content? What should your annotations reveal about the audiovisual material? How will your annotations support your research goal?
+- **What tags and categories will organize this project?**  
+How can you organize your annotations (via tags and categories) to support your research objective? What categories organize your tags? What material are you tagging and how does that guide users' engagement with the audiovisual material?
+-- **What audiovisual events will you use?**
+Why will you annotate particular audiovisual material to support your research question or objective?
+
+# AVAnnotate Project Development Grid
+
+Researchers may begin answering the above questions by using the AVAnnotate project development grid. The above questions are not mutually exclusive, and thus each rely on and impact one another.
+The AVAnnotate project development grid allows researchers to visualize the relationship between elements of a research project.
+
+[image1]
+
+## Example AVAnnotate Project Development Grid
+
+[exampleimage]
