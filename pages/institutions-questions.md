@@ -24,4 +24,4 @@ What kind of support can the institution provide for users who wish to use AVAnn
 - **How will the library/institution engage with the project?**
   Will the project feed back into the library/institution DAMS? Will it serve to represent the institution, or will it function as a “one-off” project and the sole responsibility of the creator?
 
-Additionally, the [Harry Ransom Center at the University of Texas at Austin](https://www.hrc.utexas.edu/){:target="_blank" rel="noopener"} has published [an introduction](https://www.hrc.utexas.edu/teaching/avannotate/){:target="_blank" rel="noopener"} to using AV resources in AVAnnotate projects.
+Additionally, the [Harry Ransom Center at the University of Texas at Austin](https://www.hrc.utexas.edu/){:target="_blank" rel="noopener"} has published [an introduction](https://www.hrc.utexas.edu/teaching/avannotate/){:target="_blank" rel="noopener"} to using AVAnnotate to support work with AV materials.
