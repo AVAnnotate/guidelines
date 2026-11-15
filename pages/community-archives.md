@@ -8,7 +8,7 @@ nav_order: 3
 Community archives can benefit from using AVAnnotate in a number of ways. A [community archive](https://dictionary.archivists.org/entry/community-archives.html ){:target="_blank" rel="noopener"} is a community-led (or community-governed) effort to collect, describe, preserve, and share records that document the experiences, histories, and cultural knowledge of a particular group—especially materials that have been overlooked, misrepresented, or controlled by external institutions.
 
 ## How community archives can benefit from using AVAnnotate
-•	Layered community context around AV materials: Publish time-stamped annotations, index terms, and project narratives that keep community knowledge attached to recordings rather than separated into external finding aids.
+•	Layered community context around AV materials: Publish time-stamped annotations, index terms, and project narratives that keep community knowledge attached to recordings rather than separated into external finding aids. For example, this [document](https://docs.google.com/document/d/1Td7wy92NWehVCyT2-zAiKiS7Nz1sDEhH/edit?usp=drive_link&ouid=112492510360958259862&rtpof=true&sd=true) describes the rationale  behind annotation sets and tag categories created for the [Enough Said – AVAnnotate Community Annotation Project](https://spokenweb.github.io/enough-said-reading-series/). 
 
 •	Supports plural voices and perspectives: Maintain distinct annotation sets (e.g., community narration, curator notes, researcher commentary, machine-transcript drafts), enabling multiple truths without collapsing them into a single “official” description.
 
