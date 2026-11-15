@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 # Guiding Questions for the Public
-Specific considerations that members of the no-specialist public should consider include issues of media accessibility (especially regarding institutional permissions and access to AV materials and collections) as well as how sensitive materials are framed and available for use. Ethical, political, and legal implications change depending on where AV sources originate such as from YouTube or the Internet Archive.  
+Specific considerations that members of the non-specialist public should consider include issues of media accessibility (especially regarding institutional permissions and access to AV materials and collections) as well as how sensitive materials are framed and available for use. Ethical, political, and legal implications change depending on where AV sources originate such as from YouTube or the Internet Archive.  
 
 
 - **Are you represented in this collection?** 
