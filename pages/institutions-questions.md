@@ -1,16 +1,15 @@
 ---
 title: Guiding Questions
 layout: home
-grandparent: User Guidelines
 parent: Collecting Institutions
 nav_order: 1
 ---
 # Guiding Questions for Collecting Institutions
-Content provided for use in AVAnnotate projects will inherently be ‘annotated’, and those materials may be ‘contextualized’ in new ways by AVAnnotate users. As a result, institutions should consider:
+Content provided for use in AVAnnotate projects will inherently be ‘annotated,’ and those materials may be ‘contextualized’ in new ways by AVAnnotate users. As a result, institutions should consider:
 
-- Copyright and legal constraints with the materials for potential sharing beyond the project itself and within the project. 
+- Copyright and legal constraints on the materials for potential sharing beyond the project itself and within the project. 
 - Ethical considerations of how the project author may frame and present the material.
-- Digital security - is the material protected from unauthorized copying and reuse.
+- Digital security to ensure the material is protected from unauthorized copying and reuse.
 
 The institution should determine whether to provide broad access to materials, limited access, or access by permission only.  
 
@@ -23,5 +22,3 @@ The institution should determine whether to provide broad access to materials, l
 What kind of support can the institution provide for users who wish to use AVAnnotate? Will the institution provide modeling, make decision-making transparent, and explicate mindful/responsible uses of the tool? 
 - **How will the library/institution engage with the project?**
   Will the project feed back into the library/institution DAMS? Will it serve to represent the institution, or will it function as a “one-off” project and the sole responsibility of the creator?
-
-Additionally, the [Harry Ransom Center at the University of Texas at Austin](https://www.hrc.utexas.edu/){:target="_blank" rel="noopener"} has published [an introduction](https://www.hrc.utexas.edu/teaching/avannotate/){:target="_blank" rel="noopener"} to using AVAnnotate to support work with AV materials.
