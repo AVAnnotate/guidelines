@@ -10,4 +10,4 @@ aux_links: # remove if you don't want this link to appear on your pages
   Documentation: https://avannotate.github.io/documentation/
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "assets/Section header (878 x 156 px) (998 x 178 px) (950 x 178 px) (920 x 178 px) (900 x 190 px).png"
+logo: "assets/guidelineslogo.png"
